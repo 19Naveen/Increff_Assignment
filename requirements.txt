@@ -1,0 +1,8 @@
+langchain
+langchain_community
+google-generativeai
+chromadb
+langchain-google-genai
+huggingface_hub
+sentence-transformers
+streamlit
